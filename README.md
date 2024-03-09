@@ -1,4 +1,4 @@
-<div align=center><h1>백엔드 개발자를 꿈꾸는 강지훈입니다.</h1></div>
+<div align=center><h1>백엔드 개발자를 꿈꾸는 강지훈입니다.👨‍💻</h1></div>
 <div align=center> 
   
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-#02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
