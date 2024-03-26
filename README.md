@@ -1,4 +1,4 @@
-<div align=center><h1>백엔드 개발자를 꿈꾸는 강지훈입니다.👨‍💻</h1></div>
+<div align=center><h1>풀스택 개발자를 꿈꾸는 강지훈입니다.👨‍💻</h1></div>
 <div align=center> 
   
 <div style="display: flex; justify-content: center; align-items: center;">
