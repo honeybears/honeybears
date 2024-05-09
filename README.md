@@ -3,7 +3,7 @@
   
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="margin-left: 20px; text-align: left;">
-       <h3>Major: DevOps</h3>
+       <h3>Major: BackEnd</h3>
     </div>
   </div>
 
