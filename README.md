@@ -1,10 +1,9 @@
 <div align=center><h1>강지훈👨‍💻</h1></div>
-<div align =center><h3>DevOps</h3></div>
 <div align=center> 
   
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="margin-left: 20px; text-align: left;">
-       <h3>Major: Software</h3>
+       <h3>Major: DevOps</h3>
     </div>
   </div>
 
